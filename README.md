@@ -28,7 +28,7 @@ The project is organized into the following components:
 
 ## Usage
 
-1. **Model Training**: If you want to retrain the model, you can use the `model_training.ipynb` notebook.
+1. **Model Training**: If you want to retrain the model, you can use the `customerchurnanalysis.py` notebook.
 
 2. **Streamlit App**: To run the Streamlit app, execute the following command in your terminal:
 
