@@ -16,10 +16,10 @@ The project is organized into the following components:
 
 ## Files and Directories
 
-- `model_training.ipynb`: Jupyter Notebook containing the model training process.
+- `customerchurnanalysis.py`: Jupyter Notebook containing the model training process.
 - `streamlit.py`: Streamlit app for user interaction and predictions.
 - `model.pkl`: Pickled file containing the trained logistic regression model and scaler.
-
+- 'E commerce Dataset.xlsx': Dataset file used for Logistic Regression Model Training
 ## Dependencies
 
 - `streamlit`: For creating interactive web apps.
