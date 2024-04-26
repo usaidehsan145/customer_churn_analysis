@@ -4,7 +4,7 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 
 # Load the trained logistic regression model and scaler
-with open('/home/usaid/ChurnAnalysis/model.pkl', 'rb') as file:
+with open('model.pkl', 'rb') as file:
     saved_data = joblib.load(file)
     loaded_model = saved_data['model']
     loaded_scaler = saved_data['scaler']
